@@ -1,3 +1,4 @@
+
 let temperatureInCelsius;
 let temperatureInFahrenheit;
 
@@ -11,4 +12,5 @@ console.log('Hasil konversi:', temperatureInFahrenheit); // output -> Hasil konv
 
 temperatureInCelsius = 100;
 temperatureInFahrenheit = 9 / 5 * temperatureInCelsius + 32;
+
 console.log('Hasil konversi:', temperatureInFahrenheit); // output -> Hasil konversi: 212

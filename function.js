@@ -1,3 +1,4 @@
+
 function convertCelsiusToFahrenheit(temperature) {
     const temperatureInFahrenheit = (9 / 5) * temperature + 32;
   
@@ -14,4 +15,5 @@ function convertCelsiusToFahrenheit(temperature) {
   // Akan menjalankan isi function
   convertCelsiusToFahrenheit(temperatureInCelsius);
   convertCelsiusToFahrenheit(temperatureIn);
+
   // Output => Hasil konversi: 194
