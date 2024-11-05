@@ -1,2 +1,2 @@
 # Belajar-JS
-Belajar JavaScript.
+Belajar JavaScript Dasar.
